@@ -99,3 +99,13 @@ tags = {
 Name = "demo_nat_gateway"
 }
 }
+
+resource "aws_instance" "web" {
+ami = "ami-09d56f8956ab235b3"
+instance_type ="t2.micro"
+subnet_id=aws_subnet.public_subnets["public_subnet_1"].id
+vpc_security_group_ids=["sg-0547c9ad5f47a3123"]
+tags={
+"Terraform"="true"
+}  
+}
