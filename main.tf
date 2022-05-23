@@ -136,3 +136,6 @@ Name = "web_server_inbound"
 Purpose = "Intro to Resource Blocks Lab"
 }
 }
+resource "random_id" "randomness" {
+byte_length = 16
+}
