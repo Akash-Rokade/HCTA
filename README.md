@@ -1,6 +1,15 @@
-# hcta
-# Copied 
-# hashicorp certified terraform associate
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+# Hashicorp Certified Terraform Associate (HCTA)
 
  beginner to passing the 2022 terraform exam in 30 days!
 ## intro
@@ -15,7 +24,7 @@
 
 - how to prepare
 - what to expect
-- my results
+- results
 
 ## how to prepare
 
@@ -80,3 +89,5 @@
 
 - [exam review guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
 - [objectives outline](https://www.hashicorp.com/certification/terraform-associate)
+
+# Copied from source
