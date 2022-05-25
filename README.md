@@ -1,13 +1,6 @@
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
+
 
 # Hashicorp Certified Terraform Associate (HCTA)
 
