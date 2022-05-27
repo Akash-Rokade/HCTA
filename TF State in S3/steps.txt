@@ -1,0 +1,6 @@
+Create a bucket and add name in backend.tf
+run terraform workflow
+
+
+//aws s3api create-bucket --bucket akashbucketforstate
+//aws s3 cp s3://akashbucketforstate/terraform.tfstate .
